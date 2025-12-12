@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
 string str,str1="000000000000";
-int j,i,si,l=15,t=200,max,i1;
+int j,i,si,t=200,max,i1;
 long long int sum=0,s1i;
 
 
